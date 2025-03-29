@@ -106,8 +106,8 @@ importers:
         specifier: 5.4.15
         version: 5.4.15(@types/node@20.16.1)
       vite-tsconfig-paths:
-        specifier: 5.0.1
-        version: 5.0.1(typescript@5.5.4)(vite@5.4.15(@types/node@20.16.1))
+        specifier: 5.1.4
+        version: 5.1.4(typescript@5.5.4)(vite@5.4.15(@types/node@20.16.1))
       vitest:
         specifier: 2.1.9
         version: 2.1.9(@edge-runtime/vm@3.2.0)(@types/node@20.16.1)(@vitest/ui@2.1.9)
@@ -4904,8 +4904,8 @@ packages:
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
 
-  vite-tsconfig-paths@5.0.1:
-    resolution: {integrity: sha512-yqwv+LstU7NwPeNqajZzLEBVpUFU6Dugtb2P84FXuvaoYA+/70l9MHE+GYfYAycVyPSDYZ7mjOFuYBRqlEpTig==}
+  vite-tsconfig-paths@5.1.4:
+    resolution: {integrity: sha512-cYj0LRuLV2c2sMqhqhGpaO3LretdtMn/BVX4cPLanIZuwwrkVl+lK84E/miEXkCHWXuq65rhNN4rXsBcOB3S4w==}
     peerDependencies:
       vite: '*'
     peerDependenciesMeta:
@@ -7135,7 +7135,7 @@ snapshots:
 
   agent-base@6.0.2:
     dependencies:
-      debug: 4.3.6
+      debug: 4.4.0
     transitivePeerDependencies:
       - supports-color
 
@@ -8508,7 +8508,7 @@ snapshots:
   https-proxy-agent@5.0.1:
     dependencies:
       agent-base: 6.0.2
-      debug: 4.3.6
+      debug: 4.4.0
     transitivePeerDependencies:
       - supports-color
 
@@ -10508,9 +10508,9 @@ snapshots:
       - supports-color
       - terser
 
-  vite-tsconfig-paths@5.0.1(typescript@5.5.4)(vite@5.4.15(@types/node@20.16.1)):
+  vite-tsconfig-paths@5.1.4(typescript@5.5.4)(vite@5.4.15(@types/node@20.16.1)):
     dependencies:
-      debug: 4.3.6
+      debug: 4.4.0
       globrex: 0.1.2
       tsconfck: 3.0.3(typescript@5.5.4)
     optionalDependencies:
