@@ -10,13 +10,13 @@ importers:
     dependencies:
       '@modular-forms/qwik':
         specifier: 0.29.1
-        version: 0.29.1(@builder.io/qwik-city@1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14)))(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))(typescript@5.5.4)
+        version: 0.29.1(@builder.io/qwik-city@1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15)))(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))(typescript@5.5.4)
       '@qwikest/icons':
         specifier: 0.0.13
-        version: 0.0.13(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))
+        version: 0.0.13(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))
       '@unpic/qwik':
         specifier: 1.0.0
-        version: 1.0.0(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))
+        version: 1.0.0(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))
       qwik-image:
         specifier: 0.0.16
         version: 0.0.16
@@ -26,10 +26,10 @@ importers:
         version: 0.10.3
       '@builder.io/qwik':
         specifier: 1.12.1
-        version: 1.12.1(vite@5.4.16(@types/node@22.13.14))
+        version: 1.12.1(vite@5.4.16(@types/node@22.13.15))
       '@builder.io/qwik-city':
         specifier: 1.12.1
-        version: 1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14))
+        version: 1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15))
       '@playwright/test':
         specifier: 1.51.1
         version: 1.51.1
@@ -44,19 +44,19 @@ importers:
         version: 8.6.11(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.11(prettier@3.5.3))
       '@storybook/builder-vite':
         specifier: 8.6.11
-        version: 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.14))
+        version: 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.15))
       '@storybook/html':
         specifier: 8.6.11
         version: 8.6.11(storybook@8.6.11(prettier@3.5.3))
       '@storybook/html-vite':
         specifier: 8.6.11
-        version: 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.14))
+        version: 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.15))
       '@types/eslint':
         specifier: 9.6.1
         version: 9.6.1
       '@types/node':
-        specifier: 22.13.14
-        version: 22.13.14
+        specifier: 22.13.15
+        version: 22.13.15
       '@typescript-eslint/eslint-plugin':
         specifier: 8.29.0
         version: 8.29.0(@typescript-eslint/parser@8.29.0(eslint@9.23.0(jiti@1.21.7))(typescript@5.5.4))(eslint@9.23.0(jiti@1.21.7))(typescript@5.5.4)
@@ -89,7 +89,7 @@ importers:
         version: 8.6.11(prettier@3.5.3)
       storybook-framework-qwik:
         specifier: 0.4.1
-        version: 0.4.1(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))(rollup@4.38.0)(storybook@8.6.11(prettier@3.5.3))(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14))
+        version: 0.4.1(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))(rollup@4.38.0)(storybook@8.6.11(prettier@3.5.3))(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15))
       tailwindcss:
         specifier: 4.0.17
         version: 4.0.17
@@ -104,13 +104,13 @@ importers:
         version: 41.4.1(rollup@4.38.0)
       vite:
         specifier: 5.4.16
-        version: 5.4.16(@types/node@22.13.14)
+        version: 5.4.16(@types/node@22.13.15)
       vite-tsconfig-paths:
         specifier: 5.1.4
-        version: 5.1.4(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14))
+        version: 5.1.4(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15))
       vitest:
         specifier: 2.1.9
-        version: 2.1.9(@edge-runtime/vm@3.2.0)(@types/node@22.13.14)(@vitest/ui@2.1.9)
+        version: 2.1.9(@edge-runtime/vm@3.2.0)(@types/node@22.13.15)(@vitest/ui@2.1.9)
 
 packages:
 
@@ -1084,17 +1084,17 @@ packages:
   '@types/node@16.18.11':
     resolution: {integrity: sha512-3oJbGBUWuS6ahSnEq1eN2XrCyf4YsWI8OyCvo7c64zQJNplk3mO84t53o8lfTk+2ji59g5ycfc6qQ3fdHliHuA==}
 
-  '@types/node@18.18.6':
-    resolution: {integrity: sha512-wf3Vz+jCmOQ2HV1YUJuCWdL64adYxumkrxtc+H1VUQlnQI04+5HtH+qZCOE21lBE7gIrt+CwX2Wv8Acrw5Ak6w==}
+  '@types/node@18.19.85':
+    resolution: {integrity: sha512-61sLB7tXUMpkHJagZQAzPV4xGyqzulLvphe0lquRX80rZG24VupRv9p6Qo06V9VBNeGBM8Sv8rRVVLji6pi7QQ==}
 
-  '@types/node@22.13.14':
-    resolution: {integrity: sha512-Zs/Ollc1SJ8nKUAgc7ivOEdIBM8JAKgrqqUYi2J997JuKO7/tpQC+WCetQ1sypiKCQWHdvdg9wBNpUPEWZae7w==}
+  '@types/node@22.13.15':
+    resolution: {integrity: sha512-imAbQEEbVni6i6h6Bd5xkCRwLqFc8hihCsi2GbtDoAtUcAFQ6Zs4pFXTZUUbroTkXdImczWM9AI8eZUuybXE3w==}
 
   '@types/pretty-hrtime@1.0.1':
     resolution: {integrity: sha512-VjID5MJb1eGKthz2qUerWT8+R4b9N+CHvGCzg9fn4kWZgaF9AhdYikQio3R7wV8YY1NsQKPaCwKz1Yff+aHNUQ==}
 
-  '@types/prop-types@15.7.5':
-    resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
+  '@types/prop-types@15.7.14':
+    resolution: {integrity: sha512-gNMvNH49DJ7OJYv+KAKn0Xp45p8PLl6zo2YnvDIbTd4J6MER2BmWN49TG7n9LvkyihINxeKW8+3bfS2yDC9dzQ==}
 
   '@types/qs@6.9.7':
     resolution: {integrity: sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==}
@@ -1105,8 +1105,8 @@ packages:
   '@types/react@18.2.14':
     resolution: {integrity: sha512-A0zjq+QN/O0Kpe30hA1GidzyFjatVvrpIvWLxD+xv67Vt91TWWgco9IvrJBkeyHm1trGaFS/FSGqPlhyeZRm0g==}
 
-  '@types/scheduler@0.16.3':
-    resolution: {integrity: sha512-5cJ8CB4yAx7BH1oMvdU0Jh9lrEXyPkar6F9G/ERswkCuvP4KQZfZkSjcMbAICCpQTN4OuZn8tz0HiKv9TGZgrQ==}
+  '@types/scheduler@0.23.0':
+    resolution: {integrity: sha512-YIoDCTH3Af6XM5VuwGG/QL/CJqga1Zm3NkU3HZ4ZHK2fRMPYP1VczsTUqtsf43PH/iJNVlPHAo2oWX7BSdB2Hw==}
 
   '@types/send@0.17.1':
     resolution: {integrity: sha512-Cwo8LE/0rnvX7kIIa3QHCkcuF21c05Ayb0ZfxPiv0W8VRiZiNW/WuRupHKpqqGVGf7SUA44QSOUKaEd9lIrd/Q==}
@@ -3314,6 +3314,9 @@ packages:
   unbox-primitive@1.0.2:
     resolution: {integrity: sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==}
 
+  undici-types@5.26.5:
+    resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
+
   undici-types@6.20.0:
     resolution: {integrity: sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg==}
 
@@ -3610,7 +3613,7 @@ snapshots:
 
   '@builder.io/partytown@0.10.3': {}
 
-  '@builder.io/qwik-city@1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14))':
+  '@builder.io/qwik-city@1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15))':
     dependencies:
       '@mdx-js/mdx': 3.0.1
       '@types/mdx': 2.0.13
@@ -3619,7 +3622,7 @@ snapshots:
       undici: 6.21.2
       valibot: 0.37.0(typescript@5.5.4)
       vfile: 6.0.2
-      vite: 5.4.16(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
       vite-imagetools: 7.0.4(rollup@4.38.0)
       zod: 3.22.4
     transitivePeerDependencies:
@@ -3627,10 +3630,10 @@ snapshots:
       - supports-color
       - typescript
 
-  '@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14))':
+  '@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15))':
     dependencies:
       csstype: 3.1.3
-      vite: 5.4.16(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
 
   '@cspotcode/source-map-support@0.8.1':
     dependencies:
@@ -3993,10 +3996,10 @@ snapshots:
       '@types/react': 18.2.14
       react: 18.2.0
 
-  '@modular-forms/qwik@0.29.1(@builder.io/qwik-city@1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14)))(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))(typescript@5.5.4)':
+  '@modular-forms/qwik@0.29.1(@builder.io/qwik-city@1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15)))(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))(typescript@5.5.4)':
     dependencies:
-      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.14))
-      '@builder.io/qwik-city': 1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14))
+      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.15))
+      '@builder.io/qwik-city': 1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15))
       decode-formdata: 0.8.0
       valibot: 1.0.0(typescript@5.5.4)
     transitivePeerDependencies:
@@ -4023,9 +4026,9 @@ snapshots:
 
   '@polka/url@1.0.0-next.24': {}
 
-  '@qwikest/icons@0.0.13(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))':
+  '@qwikest/icons@0.0.13(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))':
     dependencies:
-      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.14))
+      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.15))
 
   '@rollup/pluginutils@5.1.0(rollup@4.38.0)':
     dependencies:
@@ -4200,13 +4203,13 @@ snapshots:
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
 
-  '@storybook/builder-vite@8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.14))':
+  '@storybook/builder-vite@8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.15))':
     dependencies:
       '@storybook/csf-plugin': 8.6.11(storybook@8.6.11(prettier@3.5.3))
       browser-assert: 1.2.1
       storybook: 8.6.11(prettier@3.5.3)
       ts-dedent: 2.2.0
-      vite: 5.4.16(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
 
   '@storybook/channels@7.6.19':
     dependencies:
@@ -4231,7 +4234,7 @@ snapshots:
       '@storybook/node-logger': 7.6.19
       '@storybook/types': 7.6.19
       '@types/find-cache-dir': 3.2.1
-      '@types/node': 18.18.6
+      '@types/node': 18.19.85
       '@types/node-fetch': 2.6.4
       '@types/pretty-hrtime': 1.0.1
       chalk: 4.1.2
@@ -4303,9 +4306,9 @@ snapshots:
 
   '@storybook/global@5.0.0': {}
 
-  '@storybook/html-vite@8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.14))':
+  '@storybook/html-vite@8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.15))':
     dependencies:
-      '@storybook/builder-vite': 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.14))
+      '@storybook/builder-vite': 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.15))
       '@storybook/html': 8.6.11(storybook@8.6.11(prettier@3.5.3))
       magic-string: 0.30.17
       storybook: 8.6.11(prettier@3.5.3)
@@ -4418,11 +4421,11 @@ snapshots:
   '@types/body-parser@1.19.2':
     dependencies:
       '@types/connect': 3.4.35
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
 
   '@types/connect@3.4.35':
     dependencies:
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
 
   '@types/debug@4.1.7':
     dependencies:
@@ -4445,7 +4448,7 @@ snapshots:
 
   '@types/express-serve-static-core@4.17.35':
     dependencies:
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
       '@types/qs': 6.9.7
       '@types/range-parser': 1.2.4
       '@types/send': 0.17.1
@@ -4483,20 +4486,22 @@ snapshots:
 
   '@types/node-fetch@2.6.4':
     dependencies:
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
       form-data: 3.0.1
 
   '@types/node@16.18.11': {}
 
-  '@types/node@18.18.6': {}
+  '@types/node@18.19.85':
+    dependencies:
+      undici-types: 5.26.5
 
-  '@types/node@22.13.14':
+  '@types/node@22.13.15':
     dependencies:
       undici-types: 6.20.0
 
   '@types/pretty-hrtime@1.0.1': {}
 
-  '@types/prop-types@15.7.5': {}
+  '@types/prop-types@15.7.14': {}
 
   '@types/qs@6.9.7': {}
 
@@ -4504,22 +4509,22 @@ snapshots:
 
   '@types/react@18.2.14':
     dependencies:
-      '@types/prop-types': 15.7.5
-      '@types/scheduler': 0.16.3
+      '@types/prop-types': 15.7.14
+      '@types/scheduler': 0.23.0
       csstype: 3.1.3
 
-  '@types/scheduler@0.16.3': {}
+  '@types/scheduler@0.23.0': {}
 
   '@types/send@0.17.1':
     dependencies:
       '@types/mime': 1.3.2
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
 
   '@types/serve-static@1.15.2':
     dependencies:
       '@types/http-errors': 2.0.1
       '@types/mime': 3.0.1
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
 
   '@types/unist@2.0.6': {}
 
@@ -4606,9 +4611,9 @@ snapshots:
 
   '@ungap/structured-clone@1.2.0': {}
 
-  '@unpic/qwik@1.0.0(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))':
+  '@unpic/qwik@1.0.0(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))':
     dependencies:
-      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.14))
+      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.15))
 
   '@vercel/build-utils@10.5.1': {}
 
@@ -4763,13 +4768,13 @@ snapshots:
       chai: 5.2.0
       tinyrainbow: 1.2.0
 
-  '@vitest/mocker@2.1.9(vite@5.4.16(@types/node@22.13.14))':
+  '@vitest/mocker@2.1.9(vite@5.4.16(@types/node@22.13.15))':
     dependencies:
       '@vitest/spy': 2.1.9
       estree-walker: 3.0.3
       magic-string: 0.30.17
     optionalDependencies:
-      vite: 5.4.16(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
 
   '@vitest/pretty-format@2.1.9':
     dependencies:
@@ -4799,7 +4804,7 @@ snapshots:
       sirv: 3.0.1
       tinyglobby: 0.2.12
       tinyrainbow: 1.2.0
-      vitest: 2.1.9(@edge-runtime/vm@3.2.0)(@types/node@22.13.14)(@vitest/ui@2.1.9)
+      vitest: 2.1.9(@edge-runtime/vm@3.2.0)(@types/node@22.13.15)(@vitest/ui@2.1.9)
 
   '@vitest/utils@2.1.9':
     dependencies:
@@ -6833,15 +6838,15 @@ snapshots:
 
   std-env@3.8.1: {}
 
-  storybook-framework-qwik@0.4.1(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.14)))(rollup@4.38.0)(storybook@8.6.11(prettier@3.5.3))(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14)):
+  storybook-framework-qwik@0.4.1(@builder.io/qwik@1.12.1(vite@5.4.16(@types/node@22.13.15)))(rollup@4.38.0)(storybook@8.6.11(prettier@3.5.3))(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15)):
     dependencies:
-      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.14))
-      '@storybook/builder-vite': 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.14))
+      '@builder.io/qwik': 1.12.1(vite@5.4.16(@types/node@22.13.15))
+      '@storybook/builder-vite': 8.6.11(storybook@8.6.11(prettier@3.5.3))(vite@5.4.16(@types/node@22.13.15))
       '@storybook/docs-tools': 7.6.19
       magic-string: 0.30.17
       react-docgen-typescript: 2.2.2(typescript@5.5.4)
     optionalDependencies:
-      '@builder.io/qwik-city': 1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14))
+      '@builder.io/qwik-city': 1.12.1(rollup@4.38.0)(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15))
     transitivePeerDependencies:
       - encoding
       - rollup
@@ -7067,6 +7072,8 @@ snapshots:
       has-symbols: 1.0.3
       which-boxed-primitive: 1.0.2
 
+  undici-types@5.26.5: {}
+
   undici-types@6.20.0: {}
 
   undici@5.28.4:
@@ -7203,13 +7210,13 @@ snapshots:
     transitivePeerDependencies:
       - rollup
 
-  vite-node@2.1.9(@types/node@22.13.14):
+  vite-node@2.1.9(@types/node@22.13.15):
     dependencies:
       cac: 6.7.14
       debug: 4.4.0
       es-module-lexer: 1.6.0
       pathe: 1.1.2
-      vite: 5.4.16(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -7221,30 +7228,30 @@ snapshots:
       - supports-color
       - terser
 
-  vite-tsconfig-paths@5.1.4(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.14)):
+  vite-tsconfig-paths@5.1.4(typescript@5.5.4)(vite@5.4.16(@types/node@22.13.15)):
     dependencies:
       debug: 4.4.0
       globrex: 0.1.2
       tsconfck: 3.0.3(typescript@5.5.4)
     optionalDependencies:
-      vite: 5.4.16(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
     transitivePeerDependencies:
       - supports-color
       - typescript
 
-  vite@5.4.16(@types/node@22.13.14):
+  vite@5.4.16(@types/node@22.13.15):
     dependencies:
       esbuild: 0.21.5
       postcss: 8.5.3
       rollup: 4.38.0
     optionalDependencies:
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
       fsevents: 2.3.3
 
-  vitest@2.1.9(@edge-runtime/vm@3.2.0)(@types/node@22.13.14)(@vitest/ui@2.1.9):
+  vitest@2.1.9(@edge-runtime/vm@3.2.0)(@types/node@22.13.15)(@vitest/ui@2.1.9):
     dependencies:
       '@vitest/expect': 2.1.9
-      '@vitest/mocker': 2.1.9(vite@5.4.16(@types/node@22.13.14))
+      '@vitest/mocker': 2.1.9(vite@5.4.16(@types/node@22.13.15))
       '@vitest/pretty-format': 2.1.9
       '@vitest/runner': 2.1.9
       '@vitest/snapshot': 2.1.9
@@ -7260,12 +7267,12 @@ snapshots:
       tinyexec: 0.3.2
       tinypool: 1.0.2
       tinyrainbow: 1.2.0
-      vite: 5.4.16(@types/node@22.13.14)
-      vite-node: 2.1.9(@types/node@22.13.14)
+      vite: 5.4.16(@types/node@22.13.15)
+      vite-node: 2.1.9(@types/node@22.13.15)
       why-is-node-running: 2.3.0
     optionalDependencies:
       '@edge-runtime/vm': 3.2.0
-      '@types/node': 22.13.14
+      '@types/node': 22.13.15
       '@vitest/ui': 2.1.9(vitest@2.1.9)
     transitivePeerDependencies:
       - less
